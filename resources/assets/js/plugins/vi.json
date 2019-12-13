@@ -454,7 +454,7 @@
   "login": {
     "email": "Email",
     "password": "Mật khẩu",
-    "forgot_password":"Quên mật khẩu?",
+    "forgot_password": "Quên mật khẩu?",
     "or_signIn_with": "Đăng nhập với",
     "login": "Đăng nhập",
     "register": "Đăng ký",
@@ -603,19 +603,23 @@
       "name": "Tên",
       "email": "Email",
       "password": "Mật khẩu",
-      "confirm_password"Đường phố Password",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
       "account_settings": "Tiền tệ chính",
-      "save": Thêm khách hành mới": "You can update your name, email & password using the form below.",
-      "updated_message": Lưu khách hàngnt Settings updated successfully"
+      "save": "Lưu",
+      "section_description": "You can update your name, email & password using the form below.",
+      "updated_message": "Account Settings updated successfully"
     },
     "user_profile": {
       "name": "Tên",
       "email": "Email",
       "password": "Mật khẩu",
-      "confirm_password"Đường phố Password"
-Tiền tệ chính": {
-      Thêm khách hành mới",
-      "email": "Lưu khách hàngtifications to",
+      "confirm_password": "Xác nhận mật khẩu"
+    },
+    "notification": {
+      "title": "Notification",
+      "email": "Send Notifications to",
+
       "description": "Which email notifications would you like to receive when something changes?",
       "invoice_viewed": "Invoice viewed",
       "invoice_viewed_desc": "When your customer views the invoice sent via crater dashboard.",
@@ -694,9 +698,9 @@ Tiền tệ chính": {
     "name": "Tên",
     "email": "Email",
     "password": "Mật khẩu",
-    "confirm_password"Đường phố Password",
-    "save_cont": "Save & Tiền tệ chính
-    "company_info": Thêm khách hành mới
+    "confirm_password": "Confirm Password",
+    "save_cont": "Save & Continue",
+    "company_info": "Company Information",
     "company_info_desc": "Lưu khách hàngation will be displayed on invoices. Note that you can edit this later on settings page.",
     "company_name": "Company Name",
     "company_logo": "Company Logo",
