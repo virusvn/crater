@@ -454,9 +454,10 @@
   "login": {
     "email": "Email",
     "password": "Mật khẩu",
-    "forgot_password":Đường phố?",
-    "or_signIn_with": "orTiền tệ chính with",
-    "login": Thêm khách hành mới": "Register",
+    "forgot_password":"Quên mật khẩu?",
+    "or_signIn_with": "Đăng nhập với",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
     "reset_password": "Lưu khách hàngassword",
     "password_reset_successfully": "Password Reset Successfully",
     "enter_email": "Enter email",
